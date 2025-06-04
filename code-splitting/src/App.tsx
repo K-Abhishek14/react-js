@@ -6,7 +6,7 @@ import Loading from './components/Loading';
 import Header from './components/Header';
 const Home = lazy(() => import('./components/Home'));
 const About = lazy(() => import('./components/About'));
-const Contact = lazy(() => import('./components/contact'));
+const Contact = lazy(() => import('./components/Contact'));
 
 function App() {
 
