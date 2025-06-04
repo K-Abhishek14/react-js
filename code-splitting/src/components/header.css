@@ -1,0 +1,9 @@
+   header {
+       background-color: #f0f0f0;
+       padding: 1rem 0;
+     }
+
+     nav {
+       display: flex;
+       justify-content: space-around;
+     }
